@@ -1,11 +1,3 @@
-/*
- * @Author: snowsword20 zuiyuanjuli1566@163.com
- * @Date: 2024-01-18 00:46:28
- * @LastEditors: snowsword20 zuiyuanjuli1566@163.com
- * @LastEditTime: 2024-01-18 16:18:09
- * @FilePath: \NextJSe:\TechPro\nextjs-dashboard\app\page.tsx
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
- */
 import { ArrowRightIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
 import {lusitana} from '@/app/ui/fonts';
