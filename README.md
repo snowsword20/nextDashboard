@@ -41,6 +41,9 @@
 ## 2024/1/21
 - Chapter 12: Mutating Data
 - Server Actions: run asynchronous code directly on the server.
-- learn breadcrumbs style (breadcrumbs.tsx)
+- Learn breadcrumbs style (breadcrumbs.tsx)
+- Create invoices with server actions
 
-- create invoices with server actions
+- Dynamic Route Segments with []: you don't know the exact segment name and want to create routes based on data.
+- Edit invoices and Delete invoices with server actions.
+- Pass id to the Server Action using JS bind. This will ensure that any values passed to the Server Action are encoded.
