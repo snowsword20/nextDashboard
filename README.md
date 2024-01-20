@@ -15,7 +15,7 @@
 - RevenueChart style have not been settled. [css: grid flex]
 
 ## 2024/1/20
-- Chapter 8
+- Chapter 8 - 9
 - Static Rendering and Dynamic Rendering
 - Next.js API unstable_noStore: an experimental API
 - How to settle a slow data fetch
@@ -24,3 +24,13 @@
 - Route Groups (overview)
 - Stream specific components using React Suspense.
 - it's good practice to move your data fetches down to the components that need it, and then wrap those components in Suspense. 
+
+### Partial Prerendering(Next.js 14)
+- Chapter 10
+- Partial Prerendering leverages React's Concurrent APIs and uses Suspense to defer rendering parts of your application until some condition is met (e.g. data is loaded).
+
+### Search
+- Chapter 11
+- Use the Next.js APIs: searchParams, usePathname, and useRouter.
+- Client Component and Server Component
+- Best practice: Debouncing  use a library called use-debounce
