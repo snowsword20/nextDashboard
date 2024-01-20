@@ -37,3 +37,10 @@
 
 - Adding pagination
 - learn pagination component(pagination.tsx)
+
+## 2024/1/21
+- Chapter 12: Mutating Data
+- Server Actions: run asynchronous code directly on the server.
+- learn breadcrumbs style (breadcrumbs.tsx)
+
+- create invoices with server actions
