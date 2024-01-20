@@ -29,8 +29,11 @@
 - Chapter 10
 - Partial Prerendering leverages React's Concurrent APIs and uses Suspense to defer rendering parts of your application until some condition is met (e.g. data is loaded).
 
-### Search
+### Search and Pagination
 - Chapter 11
 - Use the Next.js APIs: searchParams, usePathname, and useRouter.
 - Client Component and Server Component
 - Best practice: Debouncing  use a library called use-debounce
+
+- Adding pagination
+- learn pagination component(pagination.tsx)
