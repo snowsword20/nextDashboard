@@ -20,7 +20,7 @@ export default async function Page() {
           <RevenueChart revenue={revenue}  />
           <RevenueChart revenue={revenue}  />
           <RevenueChart revenue={revenue}  /> */}
-          <RevenueChart revenue={revenue} />
+          {/* <RevenueChart revenue={revenue} /> */}
           <p className="bg-blue-900">标签1</p>
           <p className="bg-green-900 w-full md:col-span-4">标签2</p>
           <p className="bg-red-900">标签3</p>
