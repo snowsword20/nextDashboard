@@ -59,3 +59,11 @@
 
 - Chapter 15: Adding Authentication
 
+## 2024/1/22
+
+- Chapter 16: Adding Metadata
+
+### TODO
+- RevenueChart style
+- learn Authentication nextauth.js
+- something wrong vercel deployment. fix it.
