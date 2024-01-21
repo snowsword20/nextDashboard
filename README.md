@@ -55,4 +55,7 @@
 
 - Chapter 14: Improving Accessibility
 - Form Validation: client-side validation & server-side validation
-- [] server-side validation: learn twice
+- [ ] server-side validation: learn twice
+
+- Chapter 15: Adding Authentication
+
