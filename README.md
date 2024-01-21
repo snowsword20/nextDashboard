@@ -47,3 +47,12 @@
 - Dynamic Route Segments with []: you don't know the exact segment name and want to create routes based on data.
 - Edit invoices and Delete invoices with server actions.
 - Pass id to the Server Action using JS bind. This will ensure that any values passed to the Server Action are encoded.
+
+- Chapter 13: handling errors
+- Learn how to handle errors
+- Use error.tsx file to catch errors in route segments,and show a fallback UI to the user.
+- error.tsx is useful for catching all errors, notFound can be used when you try to fetch a resource that doesn't exist.
+
+- Chapter 14: Improving Accessibility
+- Form Validation: client-side validation & server-side validation
+- [] server-side validation: learn twice
