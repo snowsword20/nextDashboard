@@ -71,3 +71,4 @@
 ## 2024/1/22
 - config tailwind.config.ts
 - config tsconfig.json
+- add @types/react-dom
