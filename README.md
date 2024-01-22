@@ -67,3 +67,7 @@
 - RevenueChart style
 - learn Authentication nextauth.js
 - something wrong vercel deployment. fix it.
+
+## 2024/1/22
+- config tailwind.config.ts
+- config tsconfig.json
